@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hannahtabea
-- 👀 I’m interested in real data science projects and psychological science.
-- 🌱 I’m currently learning R, Python and SQL.
-- 💞️ I’m looking forward to collaborate on projects with you!
+- 👀 I’m especially interested in data science projects that tell me something about the human mind.
+- 🌱 I’m learning R, Python and SQL.
+- 💞️ I’m looking forward to collaborate with you!
 - 📫 How to reach me: hannahtabea.roos@gmail.com or https://www.linkedin.com/in/hannah-roos-865190177/.
 
 <!---
